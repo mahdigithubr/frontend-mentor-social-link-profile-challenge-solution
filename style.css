@@ -85,6 +85,7 @@ p {
   color: var(--whiteColor);
 }
 
-.card button:focus {
+.card button:active {
   background-color: var(--greenColor);
+  color: var(--greyColor);
 }
